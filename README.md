@@ -18,5 +18,7 @@ The following article details the methodology:
   publisher={Springer}
 }
 
+## Contact
+
 For questions, discussions, or collaborations, please feel free to contact:
 Fanghui Song – fanghuisong@stu.hit.edu.cn
