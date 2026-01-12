@@ -1,6 +1,6 @@
 # MBE-SAV-RSF for Image Segmentation
 
-This repository contains an implementation of the MBE-based Image Segmentation method.
+This repository contains an implementation of the MBE-based Image Segmentation method. For test SAV scheme, please run Demo_MBE_RSF_SAV. 
 
 ## Related Publication
 
