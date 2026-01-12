@@ -16,7 +16,8 @@ The following article details the methodology:
   pages={926--950},
   year={2024},
   publisher={Springer}
-}}
+}
+```
 
 ## Contact
 
