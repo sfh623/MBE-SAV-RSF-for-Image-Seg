@@ -17,3 +17,6 @@ The following article details the methodology:
   year={2024},
   publisher={Springer}
 }
+
+For questions, discussions, or collaborations, please feel free to contact:
+Fanghui Song – fanghuisong@stu.hit.edu.cn
