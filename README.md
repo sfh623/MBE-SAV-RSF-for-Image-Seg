@@ -1,7 +1,12 @@
-# MBE-SAV-RSF-for-Image-Seg
+# MBE-SAV-RSF for Image Segmentation
 
-Here i uploaded a illustration of MBE-based Image Segmentation method. Below are related articles.
+This repository contains an implementation of the MBE-based Image Segmentation method.
 
+## Related Publication
+
+The following article details the methodology:
+
+```bibtex
 @article{song2024re,
   title={Re-initialization-free level set method via molecular beam epitaxy equation regularization for image segmentation},
   author={Song, Fanghui and Sun, Jiebao and Shi, Shengzhu and Guo, Zhichang and Zhang, Dazhi},
